@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+
+
+    height: 80px;
+}
+
+.IconImage {
+    height: 90px;
+
+
+}
+
+.Box-1 {
+
+    height: 100vh;
+    background-image: url('Landing.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 76%, 0 94%);
+    clip-path: polygon(0 0, 100% 0, 100% 76%, 0 94%);
+
+}
+
+.Box-2 {
+    height: 500px;
+    margin-top: 250px;
+}
+
+.icons {
+    height: 200px;
+}
+
+.icons-1 {
+    height: 200px;
+}
+
+h5,
+h6 {
+
+    color: #95aaac;
+
+}
+
+#sec {
+    min-height: 100vh;
+}
+
+#third {
+
+    min-height: 100vh;
+    align-content: center;
+    background-color: #87a0a2;
+}
+
+
+.box-1 {
+    background: rgba(255, 255, 255, 0.45);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(16.5px);
+    -webkit-backdrop-filter: blur(16.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 60px;
+    border-radius: 20px;
+    width: 99%;
+    min-height: 90%;
+
+}
+
+.texting {
+    color: white;
+    line-height: 30px;
+}
+
+.spacing {
+    margin-top: 200px;
+}
+
+.data {
+    margin: 30px ;
+    text-align: center;
+}
+
+.Map {
+    min-width: 99%;
+    min-height: 50vh;
+}
